@@ -5,6 +5,6 @@ Currently migrating from an older version.
 
 Screenshots
 -------
-<img src="https://github.com/stevetcm/multi-twitch-react/blob/master/screenshots/1.png">
+<img src="https://github.com/stevetcm/multi-twitch-react/blob/master/screenshots/3.png">
 
 <img src="https://github.com/stevetcm/multi-twitch-react/blob/master/screenshots/2.png">
